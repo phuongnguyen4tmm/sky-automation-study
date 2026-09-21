@@ -1,0 +1,10 @@
+{
+  "name": "sky-automation-study",
+  "version": "1.0.0",
+  "description": "TypeScript practice & algorithm",
+  "scripts": {
+    "dev": "tsx"
+  },
+  "keywords": ["typescript", "practice", "algorithms"],
+  "license": "ISC"
+}
