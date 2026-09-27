@@ -35,6 +35,8 @@ It is guaranteed that s is a valid roman numeral in the range [1, 3999].
 TH bình thường: từ trái sang phải, cộng tất cả
 TH đặc biệt: nếu chữ bên trái < chữ bên phải -> trừ bên trái thay vì cộng
 */
+// cd automation/Algorithms
+// tsx 13_romanToInteger.ts
 
 function romanToInt(s: string): number {
     const romanMap: { [key: string]: number } = {
